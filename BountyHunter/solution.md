@@ -1,11 +1,11 @@
-User :
-ssh development@10.10.11.100
-pass: m19RoAU0hP41A1sTsq6K
-cat user.txt
+# Get User :
+ssh development@10.10.11.100<br><br>
+pass: m19RoAU0hP41A1sTsq6K<br>
+cat user.txt<br>
 
-Root :
-sudo /usr/bin/python3.8 /opt/skytrain_inc/ticketValidator.py
-Please enter the path to the ticket file:
-file.md
-Destination:
+# Get Root :
+sudo /usr/bin/python3.8 /opt/skytrain_inc/ticketValidator.py<br>
+Please enter the path to the ticket file:<br>
+file.md<br>
+Destination:<br>
 (destination is your root flag)
