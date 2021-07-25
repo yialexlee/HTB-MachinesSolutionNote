@@ -1,2 +1,2 @@
 # HTB-MachinesWriteup
-This repo is just provide simple direct solution, <b>NOT THE FULL WRITEUP</b>. Please complete the machine first and comeback to see the solution (maybe we have differenntsolution)
+This repo is a note to record the solution. Here is just <b>DIRECT SOLUTION, NOT THE FULL WRITEUP</b>. Please <b>complete the machine first</b> and comeback to see the solution (maybe we have differenntsolution)
